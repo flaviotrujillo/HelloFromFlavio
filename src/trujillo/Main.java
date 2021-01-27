@@ -9,5 +9,8 @@ public class Main {
 
         String paulName = "Paul";
         System.out.printf("Hello %s, my name is %s.%n", myname3, paulName );
+
+        String rickName = "Richard";
+        System.out.printf("Hello %s, my name is %s.%n", myname3, rickName);
     }
 }
